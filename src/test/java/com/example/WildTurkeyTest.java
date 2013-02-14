@@ -7,7 +7,8 @@ import org.junit.Test;
 public class WildTurkeyTest {
 
 	// FIXME: we want to do this, but it doesn't work
-	//Bird bird = new WildTurkeyAdapter("William the Wild Turkey");
+	//Turkey turkey = new WildTurkey("William the Wild Turkey");
+	//Bird bird = new TurkeyAdapter(turkey);
 	// FIXME: let's set to null for now
 	Bird bird = null;
 	

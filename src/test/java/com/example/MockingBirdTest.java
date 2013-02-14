@@ -20,7 +20,7 @@ public class MockingBirdTest {
 	
 	@Test
 	public void testSingsLikeAnAngel() {
-		assertEquals("♫♪♫", bird.sing());
+		assertEquals("Fififiiiii fiii", bird.sing());
 	}
 	
 	@Test

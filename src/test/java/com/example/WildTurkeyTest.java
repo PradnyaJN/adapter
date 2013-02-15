@@ -11,7 +11,7 @@ public class WildTurkeyTest {
 	//Bird bird = new TurkeyAdapter(turkey);
 	
 	// FIXME 2: Class Adapter
-	//Bird bird = new WildTurkey("William the Wild Turkey");
+	//Bird bird = new TurkeyAdapter("William the Wild Turkey");
 		
 	// FIXME: let's set to null for now
 	Bird bird = null;

@@ -6,9 +6,13 @@ import org.junit.Test;
 
 public class WildTurkeyTest {
 
-	// FIXME: we want to do this, but it doesn't work
+	// FIXME 1: Object Adapter 
 	//Turkey turkey = new WildTurkey("William the Wild Turkey");
 	//Bird bird = new TurkeyAdapter(turkey);
+	
+	// FIXME 2: Class Adapter
+	//Bird bird = new WildTurkey("William the Wild Turkey");
+		
 	// FIXME: let's set to null for now
 	Bird bird = null;
 	

@@ -1,7 +1,7 @@
 package com.example;
 
 public class WildTurkey extends Turkey {
-	private String name;
+	private final String name;
 
 	public WildTurkey(String name) {
 		this.name = name;

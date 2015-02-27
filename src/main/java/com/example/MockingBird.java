@@ -1,8 +1,14 @@
 package com.example;
 
 public class MockingBird implements Bird {
+	private final String name;
+
+	public MockingBird(String name) {
+		this.name = name;
+	}
+
 	public String getProperName() {
-		return "Mickey the MockingBird";
+		return name + " the MockingBird";
 	}
 
 	public String getLatinName() {

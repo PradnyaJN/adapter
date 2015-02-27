@@ -17,7 +17,7 @@ public class Aviary {
 		// FIXME 2: Class Adapter
 		//Bird turkey = new TurkeyAdapter("Ted");
 
-		birds.add(turkey);
+//		birds.add(turkey);
 		
 		for (Bird bird : birds)
 			show(bird);

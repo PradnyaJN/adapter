@@ -27,5 +27,6 @@ public class Aviary {
 		System.out.println(bird.getProperName() + " (" + bird.getLatinName() + ")");
 		System.out.println(bird.sing());
 		System.out.println(bird.fly());
+		System.out.println();
 	}
 }
